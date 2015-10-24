@@ -4,3 +4,4 @@ Some of the sources used:
 - http://rtutorialseries.blogspot.mx/2010/02/r-tutorial-series-regression-with.html
 - http://stats.stackexchange.com/questions/108007/correlations-with-categorical-variables
 - http://www.cookbook-r.com/Manipulating_data/Changing_the_order_of_levels_of_a_factor/
+- http://www.wineperspective.com/the_acidity_of_wine.htm
